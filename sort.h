@@ -20,6 +20,7 @@ void PrintArray(int*a, int n)
 	printf("\n");
 }
 
+//插入排序
 void InsertSort(int* a, int n)
 {
 	//控制end的位置从0走到n-2
